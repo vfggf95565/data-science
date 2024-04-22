@@ -13,6 +13,8 @@
 
 ## Contents
 
+[![StandWithPalestineBadgeBordered](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/bordered/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+
 - [About](#about)
 - [Curricular Guideline](#curricular-guideline)
 - [Curriculum](#curriculum)
